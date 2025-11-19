@@ -3,7 +3,7 @@
 Aplikasi web modern untuk menemukan resep masakan dan minuman khas Indonesia. Dibangun sebagai Progressive Web App (PWA), aplikasi ini dapat diinstal di perangkat Anda dan berfungsi penuh bahkan saat offline.
 
 ## Memulai Proyek
-s
+
 Pastikan Anda sudah menginstal Node.js di sistem Anda (disarankan v18+).
 
 ### Buat Proyek React dengan Vite
