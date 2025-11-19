@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage';
 import MakananPage from './pages/MakananPage';
 import MinumanPage from './pages/MinumanPage';
 import ProfilePage from './pages/ProfilePage';
-import CreateRecipePage from './pages/createRecipePage';
+import CreateRecipePage from './pages/CreateRecipePage';
 import EditRecipePage from './pages/EditRecipePage';
 import RecipeDetail from './components/recipe/RecipeDetail';
 import DesktopNavbar from './components/navbar/DesktopNavbar';
